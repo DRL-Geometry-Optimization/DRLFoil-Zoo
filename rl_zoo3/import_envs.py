@@ -11,7 +11,7 @@ except ImportError:
     pass
 
 try:
-    import environment
+    import airfoil_env
 except ImportError:
     pass
 
