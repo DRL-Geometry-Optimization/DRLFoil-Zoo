@@ -11,6 +11,11 @@ except ImportError:
     pass
 
 try:
+    import environment
+except ImportError:
+    pass
+
+try:
     import highway_env
 except ImportError:
     pass
