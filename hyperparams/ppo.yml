@@ -29,7 +29,7 @@ Pendulum-v1:
   sde_sample_freq: 4
 
 AirfoilEnv-v0:
-  n_envs: 8
+  n_envs: 16
   n_timesteps: !!float 3e6
   policy: 'MultiInputPolicy'
   n_steps: 2048
